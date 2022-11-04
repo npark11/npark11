@@ -1,19 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20Nari&fontSize=90)
-<br />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Nari Park-----@sseul1111
+## My values
+## How I work
+## Get in touch
 
 
 
@@ -24,7 +12,9 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseul1111&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20Nari&fontSize=90)
+<br />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
 
 ### Hi there 👋
