@@ -4,7 +4,7 @@
 Expression as authentic self <br />
 Safety and trust <br />
 Beginners's mindset and curiosity <br />
-Shared understanding and consensus <br />
+:raised_hands: Shared understanding and consensus <br />
 <br />
 ## How I work
 <br />
