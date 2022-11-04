@@ -1,5 +1,4 @@
-
-# Nari Park-----@sseul1111
+![header](https://capsule-render.vercel.app/api?type=waving&color=#555555&height=300&section=header&text=Nari%20Park&fontSize=90)
 
 ## My values
 Expression as authentic self <br />
