@@ -2,13 +2,13 @@
 # Nari Park-----@sseul1111
 
 ## My values
-Expression as authentic self
-Safety and trust
-Beginners's mindset and curiosity
-Shared understanding and consensus
-
+Expression as authentic self <br />
+Safety and trust <br />
+Beginners's mindset and curiosity <br />
+Shared understanding and consensus <br />
+<br />
 ## How I work
-
+<br />
 ## Get in touch
 
 
