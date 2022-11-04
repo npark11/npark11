@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=150&section=header&text=Nari%20Park&fontSize=70&fontColor=dddddd)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=180&section=header&text=Nari%20Park&fontSize=70&fontColor=999999)
 
 ## My values
 Expression as authentic self <br />
