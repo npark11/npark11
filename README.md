@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sseul36&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sseul1111&show_icons=true)
 
 <!--
 **sseul1111/sseul1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
