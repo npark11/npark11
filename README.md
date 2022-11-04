@@ -1,8 +1,15 @@
 
-## Nari Park-----@sseul1111
-# My values
-# How I work
-# Get in touch
+# Nari Park-----@sseul1111
+
+## My values
+Expression as authentic self
+Safety and trust
+Beginners's mindset and curiosity
+Shared understanding and consensus
+
+## How I work
+
+## Get in touch
 
 
 
