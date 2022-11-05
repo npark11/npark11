@@ -11,8 +11,10 @@
 My motivation are to stabilize and provide clarity through curiosity. That trends to manifest as creating (hopdfully) just enough process. Checklists are absoulte favorite. If I'm too much in my head, feel free to nudge me to share what's in my brain.
 <br />
 
-:wrench: Tech :wrench:
+## 🛠️ Tech 🛠️
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <br />
+
 
 
 ## Get in touch
