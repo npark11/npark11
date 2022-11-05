@@ -6,14 +6,13 @@
 :green_apple: Beginners's mindset and curiosity <br />
 :raised_hands: Shared understanding and consensus <br />
 <br />
+
 ## How I work
 <br />
-## Get in touch
-<br />
-## Get in touch
-<br />
-## Get in touch
-<br />
-## Get in touch
+
+## Tech
 <br />
 
+
+## Get in touch
+<br />
