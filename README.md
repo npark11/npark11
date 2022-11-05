@@ -8,11 +8,15 @@
 <br />
 
 ## How I work
+My motivation are to stabilize and provide clarity through curiosity. That trends to manifest as creating (hopdfully) just enough process. Checklists are absoulte favorite. If I'm too much in my head, feel free to nudge me to share what's in my brain.
 <br />
 
-## Tech
+:wrench: Tech :wrench:
 <br />
 
 
 ## Get in touch
+- Gamil :
+- Personal site :
+- LinkedIn :
 <br />
