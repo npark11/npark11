@@ -3,10 +3,6 @@
 ## My values✨
 - Beginners's mindset and curiosity <br />
 - Shared understanding and consensus <br />
-- Expression as authentic self <br />
-- Safety and trust <br />
-<br />
-
-## How I work
-My motivation are to stabilize and provide clarity through curiosity. That trends to manifest as creating (hopefully) just enough process. Checklists are absoulte favorite. If I'm too much in my head, feel free to nudge me to share what's in my brain.
+- Being open to learning about others’ experiences and the motivations behind their actions<br />
+- Being able to analyze one’s decisions and beliefs<br />
 <br />
