@@ -6,3 +6,7 @@
 - Being open to learning about others’ experiences and the motivations behind their actions<br />
 - Being able to analyze one’s decisions and beliefs<br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nari&langs_count=8&layout=compact&theme=dark)]
+
+
