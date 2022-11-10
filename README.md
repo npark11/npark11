@@ -7,7 +7,7 @@
 - Being able to analyze one’s decisions and beliefs<br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseul1111&theme=nord&layout=compact&row=4&column=2)](https://github.com/sseul1111/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseul1111&theme=codeSTACKr&layout=compact&row=4&column=2)](https://github.com/sseul1111/github-readme-stats)
 
 <!-- ![Nari's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseul1111&theme=omni&show_icons=true) -->
 
