@@ -6,6 +6,8 @@
 - Being open to learning about others’ experiences and the motivations behind their actions<br />
 - Being able to analyze one’s decisions and beliefs<br />
 <br />
+🌱Portfolio: <a href='https://npark-portfolio.netlify.app/'>https://npark-portfolio.netlify.app/</a>
+<br />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseul1111&theme=codeSTACKr&layout=compact&row=4&column=2)](https://github.com/sseul1111/github-readme-stats) -->
 
